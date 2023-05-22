@@ -1,0 +1,25 @@
+h1{
+    color: red;
+    text-align: center;
+}
+h2.normal{
+    color: blue;
+}
+h2.title-colored{
+    color: orangered;
+    text-decoration: underline;
+    text-align: right;
+}
+p.p-normal{
+    background-color: gray;
+}
+p.p-colored{
+    background-color: red;
+}
+em{
+    color: blueviolet;
+    text-decoration:underline;
+}
+strong{
+    color: green;
+}
